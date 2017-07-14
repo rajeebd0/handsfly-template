@@ -17,6 +17,9 @@ body{ margin-top:70px;}
 
 .container{ margin: 0 }
 
-
+textarea {
+  min-height: 130px;
+  resize:vertical;
+}
 
 
