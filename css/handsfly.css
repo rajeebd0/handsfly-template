@@ -1,0 +1,22 @@
+body{ margin-top:70px;}
+.panel.panel-horizontal {
+    display:table;
+    width:100%;
+}
+
+.panel.panel-horizontal > .panel-heading {
+	display:table-cell;
+	width: 20%;
+    border:0;
+    vertical-align: middle;
+    border-right: 1px solid #ddd;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 4px;
+    
+}
+
+.container{ margin: 0 }
+
+
+
+
