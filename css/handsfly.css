@@ -37,6 +37,7 @@ textarea {
   padding: 0;
 }
 .cssmenu {
+  background: rgba(8, 8, 8, 0.75);
   height: 40px;
   display: block;
   border: 1px solid;
@@ -71,8 +72,7 @@ textarea {
   color: #ffffff;
   padding: 12px 20px;
 }
-.cssmenu,
+/*.cssmenu,*/
 .cssmenu li > a:hover {
-  background: rgba(8, 8, 8, 0.75);
-  color: #ffffff;
+  background: black;
 }
